@@ -1,6 +1,6 @@
 package PatternPrograms;
 
-public class PrintPattern_3 {
+public class starpattern {
 
 	public static void main(String[] args) {
 

@@ -28,6 +28,7 @@ public class sort_array_in_ascending_order {
 		}
 		System.out.println("-----------After Sorting----------------");
 		System.out.println(Arrays.toString(num));
+		
 	}
 
 }
